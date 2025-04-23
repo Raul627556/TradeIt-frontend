@@ -10,3 +10,4 @@ export default defineConfig({
     allowedHosts: ['tradeit.com'], // 👈 aquí está la clave
   }
 })
+
